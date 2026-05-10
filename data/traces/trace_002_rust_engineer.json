@@ -1,0 +1,20 @@
+{
+  "id": "trace_rust_engineer",
+  "persona": "A hiring manager screening a senior Rust engineer for high-performance networking infrastructure.",
+  "opening": "I'm hiring a senior Rust engineer for high-performance networking infrastructure. What assessments should I use?",
+  "facts": {
+    "role": "Senior Rust engineer",
+    "level": "Senior individual contributor",
+    "skills": "Rust, Linux, networking, live coding, and reasoning",
+    "test_preference": "Technical knowledge plus cognitive and personality coverage",
+    "remote": false,
+    "language": "English"
+  },
+  "expected_assessments": [
+    "Smart Interview Live Coding",
+    "Linux Programming (General)",
+    "Networking and Implementation (New)",
+    "SHL Verify Interactive G+",
+    "Occupational Personality Questionnaire OPQ32r"
+  ]
+}

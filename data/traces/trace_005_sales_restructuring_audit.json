@@ -1,0 +1,20 @@
+{
+  "id": "trace_sales_restructuring_audit",
+  "persona": "A talent leader planning a restructuring and annual audit for a sales organisation.",
+  "opening": "As part of our restructuring and annual talent audit, we need to re-skill our Sales organization. What solutions do you recommend?",
+  "facts": {
+    "role": "Sales organisation workforce",
+    "level": "Mixed population across sales roles",
+    "skills": "Competencies, development planning, sales behaviours, and motivators",
+    "test_preference": "Audit plus development reporting for reskilling",
+    "remote": false,
+    "language": "English"
+  },
+  "expected_assessments": [
+    "Global Skills Assessment",
+    "Global Skills Development Report",
+    "Occupational Personality Questionnaire OPQ32r",
+    "OPQ MQ Sales Report",
+    "Sales Transformation 2.0 - Individual Contributor"
+  ]
+}

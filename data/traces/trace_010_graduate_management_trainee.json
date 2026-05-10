@@ -1,0 +1,17 @@
+{
+  "id": "trace_graduate_management_trainee",
+  "persona": "A graduate recruitment lead assembling a battery for a management trainee scheme.",
+  "opening": "We run a graduate management trainee scheme. We need a full battery — cognitive, personality, and situational judgement. All recent graduates.",
+  "facts": {
+    "role": "Graduate management trainee",
+    "level": "Recent graduate",
+    "skills": "Cognitive ability, personality, and situational judgement",
+    "test_preference": "Full battery, then a shorter revised shortlist",
+    "remote": false,
+    "language": "English"
+  },
+  "expected_assessments": [
+    "SHL Verify Interactive G+",
+    "Graduate Scenarios"
+  ]
+}

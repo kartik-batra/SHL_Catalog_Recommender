@@ -1,0 +1,22 @@
+{
+  "id": "trace_senior_fullstack_engineer",
+  "persona": "A technical recruiter filling a senior full-stack engineering role with a backend focus.",
+  "opening": "Here's the JD for an engineer we need to fill. Can you recommend an assessment battery?",
+  "facts": {
+    "role": "Senior full-stack engineer",
+    "level": "Senior IC",
+    "skills": "Core Java, Spring, SQL, AWS, Docker, reasoning, and personality fit",
+    "test_preference": "Backend-heavy technical battery with reasoning and personality",
+    "remote": false,
+    "language": "English"
+  },
+  "expected_assessments": [
+    "Core Java (Advanced Level) (New)",
+    "Spring (New)",
+    "SQL (New)",
+    "Amazon Web Services (AWS) Development (New)",
+    "Docker (New)",
+    "SHL Verify Interactive G+",
+    "Occupational Personality Questionnaire OPQ32r"
+  ]
+}

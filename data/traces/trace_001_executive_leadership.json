@@ -1,0 +1,18 @@
+{
+  "id": "trace_executive_leadership",
+  "persona": "A recruiter designing an assessment battery for senior executive leadership hires.",
+  "opening": "We need a solution for senior leadership.",
+  "facts": {
+    "role": "Executive leadership",
+    "level": "CXO and director-level, 15+ years experience",
+    "skills": "Strategic thinking, influencing, and leadership behaviours",
+    "test_preference": "Selection against a leadership benchmark",
+    "remote": false,
+    "language": "English"
+  },
+  "expected_assessments": [
+    "Occupational Personality Questionnaire OPQ32r",
+    "OPQ Universal Competency Report 2.0",
+    "OPQ Leadership Report"
+  ]
+}

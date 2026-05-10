@@ -1,0 +1,19 @@
+{
+  "id": "trace_contact_center_agents",
+  "persona": "A recruiter building a high-volume screening stack for entry-level contact centre agents.",
+  "opening": "We're screening 500 entry-level contact centre agents. Inbound calls, customer service focus. What should we use?",
+  "facts": {
+    "role": "Entry-level contact centre agent",
+    "level": "Entry level",
+    "skills": "English US spoken interaction, call handling, and customer service",
+    "test_preference": "Spoken language screen plus simulation and behavioural fit",
+    "remote": false,
+    "language": "English (US)"
+  },
+  "expected_assessments": [
+    "SVAR Spoken English (US) (New)",
+    "Contact Center Call Simulation (New)",
+    "Entry Level Customer Serv - Retail & Contact Center",
+    "Customer Service Phone Simulation"
+  ]
+}

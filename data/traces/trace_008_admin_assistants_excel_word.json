@@ -1,0 +1,20 @@
+{
+  "id": "trace_admin_assistants_excel_word",
+  "persona": "A hiring manager screening admin assistants for daily Excel and Word work.",
+  "opening": "I need to quickly screen admin assistants for Excel and Word daily.",
+  "facts": {
+    "role": "Admin assistant",
+    "level": "Entry level / support role",
+    "skills": "Excel, Word, and practical office-tool usage",
+    "test_preference": "Quick knowledge screen with simulations and personality fit",
+    "remote": false,
+    "language": "English"
+  },
+  "expected_assessments": [
+    "Microsoft Excel 365 (New)",
+    "Microsoft Word 365 (New)",
+    "MS Excel (New)",
+    "MS Word (New)",
+    "Occupational Personality Questionnaire OPQ32r"
+  ]
+}

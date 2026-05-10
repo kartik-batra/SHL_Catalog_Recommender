@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Generated data files (large; commit catalog.json but not the binary index)
+data/catalog.index
+data/catalog_meta.pkl
+
+# FastEmbed model cache
+.cache/
+models/

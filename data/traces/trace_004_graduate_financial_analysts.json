@@ -1,0 +1,20 @@
+{
+  "id": "trace_graduate_financial_analysts",
+  "persona": "A campus recruiter screening graduate financial analyst candidates.",
+  "opening": "Hiring graduate financial analysts — final-year students, no work experience. We need numerical reasoning and a finance knowledge test.",
+  "facts": {
+    "role": "Graduate financial analyst",
+    "level": "Graduate / entry level",
+    "skills": "Numerical reasoning, financial accounting, and statistics",
+    "test_preference": "Cognitive first filter with finance knowledge, situational judgement, and personality",
+    "remote": false,
+    "language": "English"
+  },
+  "expected_assessments": [
+    "SHL Verify Interactive – Numerical Reasoning",
+    "Financial Accounting (New)",
+    "Basic Statistics (New)",
+    "Graduate Scenarios",
+    "Occupational Personality Questionnaire OPQ32r"
+  ]
+}
